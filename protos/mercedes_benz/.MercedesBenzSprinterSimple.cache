@@ -1,0 +1,11 @@
+Webots Proto Cache File version 1.5
+protoFileHash: 9e4a2e1d3af6e9a403e63cc02cd07235
+needsRobotAncestor: 0
+baseType: Robot
+slotType: 
+parameters: translation,rotation,color,recognitionColors,name,controller,controllerArgs,sensorsSlotFront,sensorsSlotRear,sensorsSlotTop,sensorsSlotCenter,wheelBoundingObject,frontRightWheelAngularVelocity,frontLeftWheelAngularVelocity,rearRightWheelAngularVelocity,rearLeftWheelAngularVelocity
+tags: 
+license:  Apache License 2.0
+licenseUrl:  http://www.apache.org/licenses/LICENSE-2.0
+documentationUrl: 
+info: Simple\skinematic\smodel\sof\sthe\sMercedes-Benz\sSprinter\sto\sbe\smoved\swith\sa\sSupervisor.

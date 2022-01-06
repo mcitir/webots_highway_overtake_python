@@ -1,0 +1,11 @@
+Webots Proto Cache File version 1.5
+protoFileHash: 528aacd239c352ae36d9050a56ee7c83
+needsRobotAncestor: 0
+baseType: Robot
+slotType: 
+parameters: translation,rotation,color,name,controller,controllerArgs,supervisor,synchronization,sensorsSlotFront,sensorsSlotRear,sensorsSlotTop,sensorsSlotCenter,interior,window
+tags: 
+license:  Apache License 2.0
+licenseUrl:  http://www.apache.org/licenses/LICENSE-2.0
+documentationUrl: https://www.cyberbotics.com/doc/automobile/car
+info: Model\sof\sa\sMercedes-Benz\sSprinter.
